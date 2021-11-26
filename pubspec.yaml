@@ -39,7 +39,6 @@ dependencies:
   hooks_riverpod: ^1.0.0
   flutter_hooks: ^0.18.1
   html_character_entities: ^1.0.0+1
-  meta: ^1.7.0
   google_fonts: ^2.1.0
 
 dev_dependencies:
